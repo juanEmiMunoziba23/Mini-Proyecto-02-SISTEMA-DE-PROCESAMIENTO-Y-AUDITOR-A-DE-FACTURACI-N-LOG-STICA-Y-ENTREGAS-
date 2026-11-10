@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VY9KwlhMlww=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jemi_\\source\\repos\\MiniProye02\\MiniProye02\\MiniProye02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jemi_\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\jemi_\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

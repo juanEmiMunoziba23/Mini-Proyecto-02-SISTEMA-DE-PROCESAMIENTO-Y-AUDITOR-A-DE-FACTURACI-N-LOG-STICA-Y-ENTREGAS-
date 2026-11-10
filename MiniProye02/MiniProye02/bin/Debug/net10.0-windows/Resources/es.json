@@ -1,0 +1,20 @@
+{
+  "Titulo": "Sistema de Procesamiento y Auditoría de Facturación",
+  "LblLote": "Lote de paquetes",
+  "BtnProcesar": "Procesar",
+  "BtnExportar": "Exportar CSV",
+  "BtnLimpiar": "Limpiar",
+  "LblIdioma": "Idioma",
+  "ColCodigo": "Código",
+  "ColCliente": "Cliente",
+  "ColZona": "Zona",
+  "ColPeso": "Peso (kg)",
+  "ColTotal": "Total",
+  "LblDetalle": "Detalle del paquete",
+  "LblErrores": "Errores",
+  "MsgErrorConfig": "No fue posible cargar la configuración o inicializar la base de datos.",
+  "MsgLoteVacio": "Ingrese al menos una línea para procesar.",
+  "MsgProcesado": "Se procesaron {0} paquetes válidos.",
+  "MsgSinPaquetes": "No hay paquetes para exportar.",
+  "MsgExportado": "El archivo CSV se exportó correctamente."
+}

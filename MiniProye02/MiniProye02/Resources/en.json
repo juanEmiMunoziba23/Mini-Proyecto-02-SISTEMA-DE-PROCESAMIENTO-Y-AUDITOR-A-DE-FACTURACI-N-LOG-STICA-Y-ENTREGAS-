@@ -1,0 +1,20 @@
+{
+  "Titulo": "Invoice Processing and Audit System",
+  "LblLote": "Package batch",
+  "BtnProcesar": "Process",
+  "BtnExportar": "Export CSV",
+  "BtnLimpiar": "Clear",
+  "LblIdioma": "Language",
+  "ColCodigo": "Code",
+  "ColCliente": "Customer",
+  "ColZona": "Zone",
+  "ColPeso": "Weight (kg)",
+  "ColTotal": "Total",
+  "LblDetalle": "Package details",
+  "LblErrores": "Errors",
+  "MsgErrorConfig": "The configuration could not be loaded or the database could not be initialized.",
+  "MsgLoteVacio": "Enter at least one line to process.",
+  "MsgProcesado": "Processed {0} valid packages.",
+  "MsgSinPaquetes": "There are no packages to export.",
+  "MsgExportado": "The CSV file was exported successfully."
+}
