@@ -1,5 +1,5 @@
 # LogisticaFacturacion - Sistema de Procesamiento y Auditoría de Facturación (MiniProye02)
-🔗 Repositorio oficial: https://github.com/<tu-usuario>/<tu-repo>
+🔗 Repositorio oficial:(https://github.com/juanEmiMunoziba23/Mini-Proyecto-02-SISTEMA-DE-PROCESAMIENTO-Y-AUDITOR-A-DE-FACTURACI-N-LOG-STICA-Y-ENTREGAS-.git)
 
 Sistema de escritorio en C# con Windows Forms para procesar, auditar y exportar lotes de facturación de fletes y envíos express, con tarifas parametrizadas, cálculo escalonado de impuestos y soporte multi-idioma.
 
@@ -35,7 +35,9 @@ Detalle completo en `CONTRIBUTORS.md`.
 Clonar el proyecto:
 
 ```bash
-git clone https://github.com/<tu-usuario>/<tu-repo>.git
+git clone https://github.com/juanEmiMunoziba23/Mini-Proyecto-02-SISTEMA-DE-PROCESAMIENTO-Y-AUDITOR-A-DE-FACTURACI-N-LOG-STICA-Y-ENTREGAS-.git
 cd <tu-repo>
+dotnet restore
+dotnet run
 dotnet restore
 dotnet run
