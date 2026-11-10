@@ -36,8 +36,7 @@ Clonar el proyecto:
 
 ```bash
 git clone https://github.com/juanEmiMunoziba23/Mini-Proyecto-02-SISTEMA-DE-PROCESAMIENTO-Y-AUDITOR-A-DE-FACTURACI-N-LOG-STICA-Y-ENTREGAS-.git
-cd <tu-repo>
-dotnet restore
-dotnet run
+cd <mi-repo>
+
 dotnet restore
 dotnet run
