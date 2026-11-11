@@ -1,0 +1,7 @@
+LogisticaFacturacion - Sistema de Procesamiento y Auditoría de Facturación (MiniProye02) REPOSITORIO OFICIAL DEL PROYECTO
+
+https://github.com/juanEmiMunoziba23/Mini-Projecto-02-SISTEMA-DE-PROCESAMIENTO-Y-AUDITOR-A-DE-FACTURACI-N-LOG-STICA-Y-ENTREGAS-.git
+
+INTEGRANTES DEL EQUIPO
+Ian Paulo Acevedo Aldana - Backend + QA
+Juan Emiliano Muñoz Ibarra - Frontend + Docs + DevOps
