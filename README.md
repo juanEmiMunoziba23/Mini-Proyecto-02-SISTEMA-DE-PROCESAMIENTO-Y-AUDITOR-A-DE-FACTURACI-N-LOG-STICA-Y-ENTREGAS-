@@ -28,8 +28,6 @@ C# · .NET 10 · Windows Forms · System.Data.SQLite.Core · System.Text.Json ·
 
 Detalle completo en `CONTRIBUTORS.md`.
 
-## Documentación
-
 ## Instalación
 
 Clonar el proyecto:
